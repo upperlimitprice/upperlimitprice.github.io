@@ -1,0 +1,3 @@
+# upperlimitprice.github.io 전체 크롤링 금지 (검색엔진·AI 학습 크롤러 포함)
+User-agent: *
+Disallow: /
